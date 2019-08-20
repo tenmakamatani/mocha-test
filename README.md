@@ -1,6 +1,6 @@
 # mocha-test
 
-mochaを使ったテストの練習です
+This is a test practice using mocha.
 
 ## How to run
 ```
